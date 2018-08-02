@@ -1,4 +1,4 @@
-package com.lilt.Lilt_Backend;
+package com.inverse.lit;
 
 public class Person {
     private String firstName;

@@ -1,4 +1,4 @@
-package com.lilt.Lilt_Backend;
+package com.inverse.lit;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
